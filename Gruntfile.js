@@ -13,7 +13,6 @@
      "grunt-contrib-qunit": "^0.5.0",
      "grunt-contrib-watch": "^0.6.1"
    }
-   
 */
 module.exports = function(grunt) {
 
